@@ -51,3 +51,5 @@ GitHub Actions restores dependencies, builds the solution and runs xUnit tests. 
 
 ## Academic integrity and evidence
 Review and understand the code, run it locally, fix any errors, and follow your lecturer's rules for acknowledging AI assistance. Commit your own meaningful progress with accurate messages; do not fabricate commits, test results, screenshots, or a green CI badge.
+
+youtube (https://youtu.be/VQrkbyNbgWE) 
